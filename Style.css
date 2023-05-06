@@ -22,7 +22,7 @@
     background-size: cover;
     height: 100vh;
     width: 100%;
-    background-image: url(background.jpg);
+    background-image: url(background1.png)
  
     
 }
@@ -44,7 +44,7 @@ aside{
 }
 
 #barra-menu{
-    background: #180127;
+    background: #8DA69A;
     height: 100vh;
     width: 0px;
     transition: 0.3s all;
@@ -64,10 +64,10 @@ aside{
 }
 
 #barra-menu ul li a:hover{
-    border: solid 1px #C229AA;
+    border: solid 1px #31443b;
     padding: 8px;
     border-radius: 15px;
-    background: #7601c4;
+    background: #658C7A;
 
 }
 
@@ -90,7 +90,7 @@ aside{
 .C-icon span:hover{
     transition: 0.2s;
     transform: 0.5;
-    color: #C229AA;
+    color: #658C7A;
 }
 
 
@@ -104,7 +104,7 @@ aside{
 }
 
 .main-title h1{
-    font-size: 70px;
+    font-size: 50px;
     color: #fff;
     margin-top: 15%;
     font-family: "Poppins";
@@ -115,8 +115,8 @@ aside{
 }
 
 .main-title h2{
-    color: #FE002D;
-    font-size: 50px;
+    color: #658C7A;
+    font-size: 80px;
     font-family: "Hanuman";
     font-weight: bold;
     letter-spacing: 2px;
@@ -124,7 +124,7 @@ aside{
 
 .main-title h5{
     color: #fff;
-    font-size: 15px;
+    font-size: 30px;
     font-family: "Hanuman";
     letter-spacing: 2px;
     font-weight: 200;
@@ -137,7 +137,7 @@ aside{
     margin-top: 80px;
     padding: 8px 5px;
     font-size: 20px;
-    background-color: #FE002D;
+    background-color: #658C7A;
     border-radius: 50px;
     color: #FBF7F7;
     font-family:"Inter" ;
@@ -230,8 +230,9 @@ aside{
 }
 
 
-.Sobre-mim h1{
 
+.Sobre-mim h1{
+margin-top: 50px;
      text-align: center;
     font-size: 55px;
     font-family: "Inter";
@@ -248,7 +249,7 @@ aside{
 }
 
 .Sobre-mim span{
-    color: #FD0BF3;
+    color: #658C7A;
 }
 
 .Sobre-mim p{
@@ -258,7 +259,7 @@ aside{
 }
 
 .Sobre-mim button{
-    background-color: #EF0453;
+    background-color: #A6A6A6;
     margin-left: 35%;
     margin-top: 30px;
     padding: 10px 50px;
